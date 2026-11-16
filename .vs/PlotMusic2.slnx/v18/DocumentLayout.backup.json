@@ -1,0 +1,686 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\services\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\services\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\dto\\artistadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\dto\\artistadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\repositories\\playlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\repositories\\playlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\repositories\\musicarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\repositories\\musicarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\repositories\\generorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\repositories\\generorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\repositories\\artistarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\repositories\\artistarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\repositories\\albumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\repositories\\albumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\utils\\cloudinarysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\utils\\cloudinarysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\utils\\criptografia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\utils\\criptografia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\utils\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\utils\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\utils\\swaggerauthorizeoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\utils\\swaggerauthorizeoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\interfaces\\ialbumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\interfaces\\ialbumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\interfaces\\iartistarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\interfaces\\iartistarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\controllers\\musicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\controllers\\musicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\controllers\\artistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\controllers\\artistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\controllers\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\controllers\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\controllers\\playlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\controllers\\playlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\dto\\usuariorespostadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\dto\\usuariorespostadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\dto\\usuarioatualizacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\dto\\usuarioatualizacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\dto\\playlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\dto\\playlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\dto\\musicadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\dto\\musicadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\dto\\generodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\dto\\generodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\dto\\albumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\dto\\albumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\interfaces\\iplaylistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\interfaces\\iplaylistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\interfaces\\imusicarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\interfaces\\imusicarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\interfaces\\igenerorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\interfaces\\igenerorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\services\\imagefolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\services\\imagefolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|c:\\users\\39044278819\\desktop\\plotmusic2\\plotmusic2\\services\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FBEF1-7857-6A8B-BED9-35ADF69CA479}|PlotMusic2\\PlotMusic2.csproj|solutionrelative:plotmusic2\\services\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 30,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "PlotMusic2\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:19:09.914Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PlaylistController.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Controllers\\PlaylistController.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Controllers\\PlaylistController.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Controllers\\PlaylistController.cs",
+              "RelativeToolTip": "PlotMusic2\\Controllers\\PlaylistController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAYwE4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:19:06.156Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MusicaController.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Controllers\\MusicaController.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Controllers\\MusicaController.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Controllers\\MusicaController.cs",
+              "RelativeToolTip": "PlotMusic2\\Controllers\\MusicaController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAwDYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:19:00.673Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "PlotMusic2\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwBsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:18:56.447Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GeneroController.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Controllers\\GeneroController.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Controllers\\GeneroController.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Controllers\\GeneroController.cs",
+              "RelativeToolTip": "PlotMusic2\\Controllers\\GeneroController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAcwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:18:52.719Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ArtistaController.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Controllers\\ArtistaController.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Controllers\\ArtistaController.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Controllers\\ArtistaController.cs",
+              "RelativeToolTip": "PlotMusic2\\Controllers\\ArtistaController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAcwD8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:18:47.881Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AlbumController.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Controllers\\AlbumController.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Controllers\\AlbumController.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Controllers\\AlbumController.cs",
+              "RelativeToolTip": "PlotMusic2\\Controllers\\AlbumController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAwHYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:18:28.765Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UsuarioRespostaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\DTO\\UsuarioRespostaDTO.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\DTO\\UsuarioRespostaDTO.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\DTO\\UsuarioRespostaDTO.cs",
+              "RelativeToolTip": "PlotMusic2\\DTO\\UsuarioRespostaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:18:04.083Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\DTO\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\DTO\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\DTO\\UsuarioDTO.cs",
+              "RelativeToolTip": "PlotMusic2\\DTO\\UsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:17:59.404Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UsuarioAtualizacaoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\DTO\\UsuarioAtualizacaoDTO.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\DTO\\UsuarioAtualizacaoDTO.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\DTO\\UsuarioAtualizacaoDTO.cs",
+              "RelativeToolTip": "PlotMusic2\\DTO\\UsuarioAtualizacaoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:17:55.148Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PlaylistDTO.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\DTO\\PlaylistDTO.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\DTO\\PlaylistDTO.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\DTO\\PlaylistDTO.cs",
+              "RelativeToolTip": "PlotMusic2\\DTO\\PlaylistDTO.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:17:50.967Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MusicaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\DTO\\MusicaDTO.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\DTO\\MusicaDTO.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\DTO\\MusicaDTO.cs",
+              "RelativeToolTip": "PlotMusic2\\DTO\\MusicaDTO.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:17:47.335Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "PlotMusic2\\DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:17:44.041Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GeneroDTO.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\DTO\\GeneroDTO.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\DTO\\GeneroDTO.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\DTO\\GeneroDTO.cs",
+              "RelativeToolTip": "PlotMusic2\\DTO\\GeneroDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:17:40.619Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArtistaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\DTO\\ArtistaDTO.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\DTO\\ArtistaDTO.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\DTO\\ArtistaDTO.cs",
+              "RelativeToolTip": "PlotMusic2\\DTO\\ArtistaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:17:36.869Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AlbumDTO.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\DTO\\AlbumDTO.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\DTO\\AlbumDTO.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\DTO\\AlbumDTO.cs",
+              "RelativeToolTip": "PlotMusic2\\DTO\\AlbumDTO.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA0wAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:17:25.072Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "PlotMusic2\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:17:17.346Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IPlaylistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Interfaces\\IPlaylistRepository.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Interfaces\\IPlaylistRepository.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Interfaces\\IPlaylistRepository.cs",
+              "RelativeToolTip": "PlotMusic2\\Interfaces\\IPlaylistRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:17:12.864Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IMusicaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Interfaces\\IMusicaRepository.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Interfaces\\IMusicaRepository.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Interfaces\\IMusicaRepository.cs",
+              "RelativeToolTip": "PlotMusic2\\Interfaces\\IMusicaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:17:09.21Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IGeneroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Interfaces\\IGeneroRepository.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Interfaces\\IGeneroRepository.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Interfaces\\IGeneroRepository.cs",
+              "RelativeToolTip": "PlotMusic2\\Interfaces\\IGeneroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:17:05.257Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IArtistaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Interfaces\\IArtistaRepository.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Interfaces\\IArtistaRepository.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Interfaces\\IArtistaRepository.cs",
+              "RelativeToolTip": "PlotMusic2\\Interfaces\\IArtistaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:17:01.627Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAlbumRepository.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Interfaces\\IAlbumRepository.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Interfaces\\IAlbumRepository.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Interfaces\\IAlbumRepository.cs",
+              "RelativeToolTip": "PlotMusic2\\Interfaces\\IAlbumRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:16:27.704Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "PlotMusic2\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:16:03.847Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlaylistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Repositories\\PlaylistRepository.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Repositories\\PlaylistRepository.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Repositories\\PlaylistRepository.cs",
+              "RelativeToolTip": "PlotMusic2\\Repositories\\PlaylistRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:15:53.665Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MusicaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Repositories\\MusicaRepository.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Repositories\\MusicaRepository.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Repositories\\MusicaRepository.cs",
+              "RelativeToolTip": "PlotMusic2\\Repositories\\MusicaRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwC4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:15:49.117Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GeneroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Repositories\\GeneroRepository.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Repositories\\GeneroRepository.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Repositories\\GeneroRepository.cs",
+              "RelativeToolTip": "PlotMusic2\\Repositories\\GeneroRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwDAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:15:44.373Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArtistaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Repositories\\ArtistaRepository.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Repositories\\ArtistaRepository.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Repositories\\ArtistaRepository.cs",
+              "RelativeToolTip": "PlotMusic2\\Repositories\\ArtistaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:15:39.436Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AlbumRepository.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Repositories\\AlbumRepository.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Repositories\\AlbumRepository.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Repositories\\AlbumRepository.cs",
+              "RelativeToolTip": "PlotMusic2\\Repositories\\AlbumRepository.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwEcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:15:18.337Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ImageFolder.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Services\\ImageFolder.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Services\\ImageFolder.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Services\\ImageFolder.cs",
+              "RelativeToolTip": "PlotMusic2\\Services\\ImageFolder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:15:08.439Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IImageService.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Services\\IImageService.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Services\\IImageService.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Services\\IImageService.cs",
+              "RelativeToolTip": "PlotMusic2\\Services\\IImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:15:02.361Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CloudinaryService.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Services\\CloudinaryService.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Services\\CloudinaryService.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Services\\CloudinaryService.cs",
+              "RelativeToolTip": "PlotMusic2\\Services\\CloudinaryService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:14:46.235Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SwaggerAuthorizeOperationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Utils\\SwaggerAuthorizeOperationFilter.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Utils\\SwaggerAuthorizeOperationFilter.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Utils\\SwaggerAuthorizeOperationFilter.cs",
+              "RelativeToolTip": "PlotMusic2\\Utils\\SwaggerAuthorizeOperationFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:13:22.538Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Utils\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Utils\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Utils\\JwtSettings.cs",
+              "RelativeToolTip": "PlotMusic2\\Utils\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:13:13.033Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Criptografia.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Utils\\Criptografia.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Utils\\Criptografia.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Utils\\Criptografia.cs",
+              "RelativeToolTip": "PlotMusic2\\Utils\\Criptografia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:13:00.13Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CloudinarySettings.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Utils\\CloudinarySettings.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Utils\\CloudinarySettings.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Utils\\CloudinarySettings.cs",
+              "RelativeToolTip": "PlotMusic2\\Utils\\CloudinarySettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:12:39.837Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PlotMusic2\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\appsettings.Development.json",
+              "RelativeToolTip": "PlotMusic2\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-16T19:11:35.445Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Program.cs",
+              "RelativeDocumentMoniker": "PlotMusic2\\Program.cs",
+              "ToolTip": "C:\\Users\\39044278819\\Desktop\\PlotMusic2\\PlotMusic2\\Program.cs",
+              "RelativeToolTip": "PlotMusic2\\Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:07:21.5Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
